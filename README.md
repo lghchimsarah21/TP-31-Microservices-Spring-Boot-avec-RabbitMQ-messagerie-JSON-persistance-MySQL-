@@ -7,3 +7,5 @@
 ttachments/assets/fff38b5b-39ac-4cdb-82d6-e09b0a7745c0" />
 caeb93b-00f7-4153-a413-9e19a59c7f23" />
 <img width="1734" height="1082" alt="Screenshot 2025-12-16 135528" src="https://github.com/user-attachments/assets/2bacf467-ce68-4b13-832b-8ff1c1c67e91" />
+
+<img width="1920" height="1140" alt="Screenshot 2025-12-16 135651" src="https://github.com/user-attachments/assets/ee0a36cb-2655-4534-810c-d4bb34f84d02" />
